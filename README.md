@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/rajxy/Leetcode_dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajxy/Leetcode_dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rajxy/Leetcode_dsa/tree/master/0011-container-with-most-water) |
+| [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,10 +36,12 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/rajxy/Leetcode_dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajxy/Leetcode_dsa/tree/master/0009-palindrome-number) |
+| [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rajxy/Leetcode_dsa/tree/master/0010-regular-expression-matching) |
+| [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -51,4 +54,16 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajxy/Leetcode_dsa/tree/master/0011-container-with-most-water) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
