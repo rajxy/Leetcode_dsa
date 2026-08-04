@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/rajxy/Leetcode_dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajxy/Leetcode_dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rajxy/Leetcode_dsa/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/rajxy/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/rajxy/Leetcode_dsa/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -25,6 +26,7 @@
 | [0010-regular-expression-matching](https://github.com/rajxy/Leetcode_dsa/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/rajxy/Leetcode_dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajxy/Leetcode_dsa/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/rajxy/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/rajxy/Leetcode_dsa/tree/master/3731-find-missing-elements) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rajxy/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
