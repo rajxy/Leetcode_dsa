@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/rajxy/Leetcode_dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rajxy/Leetcode_dsa/tree/master/0011-container-with-most-water) |
 | [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/rajxy/Leetcode_dsa/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajxy/Leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/rajxy/Leetcode_dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajxy/Leetcode_dsa/tree/master/0013-roman-to-integer) |
+| [3731-find-missing-elements](https://github.com/rajxy/Leetcode_dsa/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/rajxy/Leetcode_dsa/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
