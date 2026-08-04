@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/rajxy/Leetcode_dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rajxy/Leetcode_dsa/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rajxy/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/rajxy/Leetcode_dsa/tree/master/0015-3sum) |
 | [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/rajxy/Leetcode_dsa/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajxy/Leetcode_dsa/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rajxy/Leetcode_dsa/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rajxy/Leetcode_dsa/tree/master/0015-3sum) |
 | [3731-find-missing-elements](https://github.com/rajxy/Leetcode_dsa/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
