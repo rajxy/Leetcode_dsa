@@ -48,6 +48,7 @@
 | [0012-integer-to-roman](https://github.com/rajxy/Leetcode_dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajxy/Leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rajxy/Leetcode_dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajxy/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rajxy/Leetcode_dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
