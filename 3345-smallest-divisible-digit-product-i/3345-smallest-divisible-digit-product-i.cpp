@@ -2,8 +2,8 @@ class Solution {
 public:
     int smallestNumber(int n, int t) {
         while (true) {
-            int x = n;
             int product = 1;
+            int x = n;
 
             while (x > 0) {
                 product *= (x % 10);
