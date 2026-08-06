@@ -1,19 +1,19 @@
 class Solution {
-public:
-    int smallestNumber(int n, int t) {
-        while (true) {
-            int product = 1;
-            int x = n;
+ public:
+  int smallestNumber(int n, int t) {
+    for (int num = n; num < n + 10; ++num)
+      if (getDigitProd(num) % t == 0)
+        return num;
+    throw;
+  }
 
-            while (x > 0) {
-                product *= (x % 10);
-                x /= 10;
-            }
-
-            if (product % t == 0)
-                return n;
-
-            n++;
-        }
+ private:
+  int getDigitProd(int num) {
+    int digitProd = 1;
+    while (num > 0) {
+      digitProd *= num % 10;
+      num /= 10;
     }
+    return digitProd;
+  }
 };
