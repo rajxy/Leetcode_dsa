@@ -28,6 +28,7 @@
 | [0012-integer-to-roman](https://github.com/rajxy/Leetcode_dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajxy/Leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rajxy/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajxy/Leetcode_dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0013-roman-to-integer](https://github.com/rajxy/Leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajxy/Leetcode_dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajxy/Leetcode_dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajxy/Leetcode_dsa/tree/master/0011-container-with-most-water) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajxy/Leetcode_dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
 | ------- |
@@ -92,4 +95,12 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajxy/Leetcode_dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajxy/Leetcode_dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajxy/Leetcode_dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
