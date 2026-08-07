@@ -29,6 +29,7 @@
 | [0012-integer-to-roman](https://github.com/rajxy/Leetcode_dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajxy/Leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rajxy/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/rajxy/Leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajxy/Leetcode_dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -111,4 +112,12 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajxy/Leetcode_dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rajxy/Leetcode_dsa/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rajxy/Leetcode_dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
