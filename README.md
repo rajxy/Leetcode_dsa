@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/rajxy/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rajxy/Leetcode_dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rajxy/Leetcode_dsa/tree/master/0018-4sum) |
+| [1140-stone-game-ii](https://github.com/rajxy/Leetcode_dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/rajxy/Leetcode_dsa/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -51,6 +52,7 @@
 | [0009-palindrome-number](https://github.com/rajxy/Leetcode_dsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/rajxy/Leetcode_dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajxy/Leetcode_dsa/tree/master/0013-roman-to-integer) |
+| [1140-stone-game-ii](https://github.com/rajxy/Leetcode_dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajxy/Leetcode_dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajxy/Leetcode_dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -59,6 +61,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rajxy/Leetcode_dsa/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/rajxy/Leetcode_dsa/tree/master/0022-generate-parentheses) |
+| [1140-stone-game-ii](https://github.com/rajxy/Leetcode_dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -80,14 +83,17 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/rajxy/Leetcode_dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/rajxy/Leetcode_dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/rajxy/Leetcode_dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 ## Sorting
 |  |
@@ -126,4 +132,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajxy/Leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rajxy/Leetcode_dsa/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/rajxy/Leetcode_dsa/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
