@@ -30,6 +30,7 @@
 | [0013-roman-to-integer](https://github.com/rajxy/Leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rajxy/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rajxy/Leetcode_dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rajxy/Leetcode_dsa/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajxy/Leetcode_dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rajxy/Leetcode_dsa/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/rajxy/Leetcode_dsa/tree/master/0022-generate-parentheses) |
 | [1406-stone-game-iii](https://github.com/rajxy/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -104,6 +106,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rajxy/Leetcode_dsa/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajxy/Leetcode_dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -122,4 +125,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajxy/Leetcode_dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rajxy/Leetcode_dsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
